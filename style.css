@@ -1,0 +1,63 @@
+*{
+  font-family: oswald, roboto;  
+  text-align: center;
+}
+.profile-name{
+  font-size: 3em;
+  color: orangered;
+  text-shadow:  0px 0px 10px orangered;
+  text-align: center;
+
+}
+.profile-title{
+  font-size: 1.5em;
+  font-weight: 600;
+  text-shadow: 0px 0px 10px orangered;
+  color: orangered;
+  text-align: center;
+}
+body{
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: orangered;
+}
+h2{
+    font-weight: 450;
+    text-shadow: 0px 0px 10px orangered;
+    color: orangered;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: orchid;
+}
+a:hover{
+    color: orange;
+}
+.experience{
+    font-weight: 600;
+
+}
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    border: 1px solid orangered;
+}
+form{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 350px;
+    padding: 20px;
+    border: 1px solid orangered;
+}
+table, thead, tr, th, td{
+    border: 1px solid orangered;
+}
+th{
+    text-shadow: 0px 0px 10px orangered;
+}
